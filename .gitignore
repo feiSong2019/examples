@@ -1,0 +1,9 @@
+data/TUDataset/MUTAG/processed/data.pt
+data/TUDataset/MUTAG/processed/pre_filter.pt
+data/TUDataset/MUTAG/processed/pre_transform.pt
+data/TUDataset/MUTAG/raw/MUTAG_A.txt
+data/TUDataset/MUTAG/raw/MUTAG_edge_labels.txt
+data/TUDataset/MUTAG/raw/MUTAG_graph_indicator.txt
+data/TUDataset/MUTAG/raw/MUTAG_graph_labels.txt
+data/TUDataset/MUTAG/raw/MUTAG_node_labels.txt
+data/TUDataset/MUTAG/raw/README.txt
